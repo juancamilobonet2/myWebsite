@@ -1,0 +1,25 @@
+body {
+  background-color: #0DCA52;
+}
+
+.bordered-div {
+  border: 5px inset ;
+  padding: 10px;
+  margin: 10px;
+}
+
+.top-banner {
+  height: auto;
+}
+
+.container {
+  display: flex;
+}
+
+.sidebar {
+  flex: 1;
+}
+
+.main {
+  flex: 3;
+}
