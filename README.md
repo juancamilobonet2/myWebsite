@@ -1,2 +1,2 @@
 # myWebsite
-My website, juancamilobonet.com.
+skibidi rizz.
